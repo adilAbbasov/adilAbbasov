@@ -1,4 +1,4 @@
-<img alt="Coding" src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966">
+<img alt="Coding" src="https://media.licdn.com/dms/image/D4E22AQGXrvWdSsFiqg/feedshare-shrink_1280/0/1703932368454?e=1706745600&v=beta&t=dKkYwEFVR5d64YO6WWi9Z7j-_OoQPf4Vnywcox8p8lw">
 
 # 💫 About Me:
 🌱 I’m currently learning ASP.NET frameworks<br><br>💬 Ask me about C#, .NET, ASP.NET, ASP.NET MVC, ASP.NET Web API, ASP.NET AJAX<br><br>📫 How to reach me abbasov.adil.n@gmail.com
