@@ -1,4 +1,4 @@
-<img alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fjava-programming-basics--ud282&psig=AOvVaw1-s-NODzSsOOy0_iZsBNqK&ust=1714384980019000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCPlvPT5IUDFQAAAAAdAAAAABAE">
+<img alt="Coding" src="https://cdn.sanity.io/images/tlr8oxjg/production/1ca7b34a8d5308a03ae186dfe72caabce0327fe2-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 
 # 💫 About Me:
 🌱 I’m currently learning ASP.NET frameworks<br><br>💬 Ask me about C#, .NET, ASP.NET, ASP.NET MVC, ASP.NET Web API, ASP.NET AJAX<br><br>📫 How to reach me abbasov.adil.n@gmail.com
