@@ -1,7 +1,7 @@
 <img alt="Coding" src="https://cdn.sanity.io/images/tlr8oxjg/production/1ca7b34a8d5308a03ae186dfe72caabce0327fe2-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 
 # 💫 About Me:
-🌱 I’m currently learning ASP.NET frameworks<br><br>💬 Ask me about C#, .NET, ASP.NET, ASP.NET MVC, ASP.NET Web API, ASP.NET AJAX<br><br>📫 How to reach me abbasov.adil.n@gmail.com
+🌱 I’m currently working as a Backend .NET Developer<br><br>💬 Ask me about C#, .NET, ASP.NET MVC, ASP.NET Web API, PostgreSQL, Microsoft SQL Server, Microservice<br><br>📫 How to reach me abbasov.adil.n@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adil-abbasov-397a98253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@adil_Abbasovv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCzha9EtlpsAlVVqghYBo1EQ) 
